@@ -1,8 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import ChatUI from './components/ChatUI';
-
+import ChatUI from "../components/ChatUI";
 
 export default function Chat() {
   const [messages, setMessages] = useState([]);
