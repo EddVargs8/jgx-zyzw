@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "jgx-zyzw",
-  description: "Pagina de Edwin para Liz, implementa la API de OpenAI",
+  description: "Pagina creada por Alex, proposito? desconocido de momento",
 };
 
 export default function RootLayout({ children }) {
